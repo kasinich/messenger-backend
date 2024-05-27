@@ -1,0 +1,397 @@
+{
+    "dialogs": [
+        {
+            "_id": "a384b6463fc216a5f8ecb6670f86456a",
+            "user": {
+                "_id": "a384b6463fc216a5f8ecb6670f86456a",
+                "fullname": "Кирилл",
+                "avatar": "https://sun5-7.userapi.com/s/v1/if2/liqQM7RPMQ6ekwiheDA7E5FVhSS8KIO3-7DcgbPGIF_BPg-FGcEuZ0Vl2DRyf_ceGRHLBCFK76KVenJPYRB-Hh2n.jpg?quality=95&crop=338,0,643,643&as=50x50,100x100,200x200,400x400&ava=1&u=3ETenzU-9qgER76tYomdfbMFZdPi56oB0XArvFlkzho&cs=200x200",
+                "isOnline": true
+            },
+            "text": "Ой горе горе то какое. А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 15 2024 16:53:26 GMT+1000",
+            "unreaded": 0,
+            "isReaded": true
+        },
+        {
+            "_id": "d554c6d233b44173c4da0b580ce8473f",
+            "user": {
+                "_id": "d554c6d233b44173c4da0b580ce8473f",
+                "fullname": "Сергей",
+                "avatar": null,
+                "isOnline": false
+            },
+            "text": "Салам по полаи .А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 16 2024 17:40:26 GMT+1000",
+            "unreaded": 1,
+            "isReaded": true
+        },
+        {
+            "_id": "a8b9c4b0ec8e313decaa0ea6c05ad1f1",
+            "user": {
+                "_id": "a8b9c4b0ec8e313decaa0ea6c05ad1f1",
+                "fullname": "Александр",
+                "avatar": null,
+                "isOnline": false
+            },
+            "text": "Салам по полаи .А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 16 2024 17:40:26 GMT+1000",
+            "unreaded": 1,
+            "isReaded": true
+        },
+        {
+            "_id": "a6bab30211e6e2c7595233d63a532036",
+            "user": {
+                "_id": "a6bab30211e6e2c7595233d63a532036",
+                "fullname": "Михаил",
+                "avatar": null,
+                "isOnline": false
+            },
+            "text": "Салам по полаи .А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 16 2024 17:40:26 GMT+1000",
+            "unreaded": 1,
+            "isReaded": true
+        },
+        {
+            "_id": "6aefc59e73f5fe1a5f347dd23462dd83",
+            "user": {
+                "_id": "6aefc59e73f5fe1a5f347dd23462dd83",
+                "fullname": "Константин",
+                "avatar": null,
+                "isOnline": false
+            },
+            "text": "Салам по полаи .А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 16 2024 17:40:26 GMT+1000",
+            "unreaded": 1,
+            "isReaded": true
+        },
+        {
+            "_id": "7a47ab10d3b62d83a07a0489109bd808",
+            "user": {
+                "_id": "7a47ab10d3b62d83a07a0489109bd808",
+                "fullname": "Дмитрий",
+                "avatar": null,
+                "isOnline": false
+            },
+            "text": "Салам по полаи .А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 16 2024 17:40:26 GMT+1000",
+            "unreaded": 1,
+            "isReaded": true
+        },
+        {
+            "_id": "807dad265c51ad0be541e4c0e1eac371",
+            "user": {
+                "_id": "807dad265c51ad0be541e4c0e1eac371",
+                "fullname": "Петр",
+                "avatar": null,
+                "isOnline": false
+            },
+            "text": "Салам по полаи .А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 16 2024 17:40:26 GMT+1000",
+            "unreaded": 1,
+            "isReaded": true
+        },
+        {
+            "_id": "9d5c9f2202cd0fb26b7da172e88c3ab7",
+            "user": {
+                "_id": "9d5c9f2202cd0fb26b7da172e88c3ab7",
+                "fullname": "Алена",
+                "avatar": null,
+                "isOnline": false
+            },
+            "text": "Салам по полаи .А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 16 2024 17:40:26 GMT+1000",
+            "unreaded": 1,
+            "isReaded": true
+        },
+        {
+            "_id": "33c498a900b6f576ca3894fc9759a71d",
+            "user": {
+                "_id": "33c498a900b6f576ca3894fc9759a71d",
+                "fullname": "Святослав",
+                "avatar": null,
+                "isOnline": false
+            },
+            "text": "Салам по полаи .А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 16 2024 17:40:26 GMT+1000",
+            "unreaded": 1,
+            "isReaded": true
+        },
+        {
+            "_id": "193e8f461d1f79b558e1cc9dc7700ddf",
+            "user": {
+                "_id": "193e8f461d1f79b558e1cc9dc7700ddf",
+                "fullname": "Ростислав",
+                "avatar": null,
+                "isOnline": false
+            },
+            "text": "Салам по полаи .А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 16 2024 17:40:26 GMT+1000",
+            "unreaded": 1,
+            "isReaded": true
+        },
+        {
+            "_id": "d142bcab78995246512050d787dee09e",
+            "user": {
+                "_id": "d142bcab78995246512050d787dee09e",
+                "fullname": "Оля",
+                "avatar": null,
+                "isOnline": false
+            },
+            "text": "Салам по полаи .А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 16 2024 17:40:26 GMT+1000",
+            "unreaded": 1,
+            "isReaded": true
+        },
+        {
+            "_id": "bce41c549050f3eaee4e98ac847b29e0",
+            "user": {
+                "_id": "bce41c549050f3eaee4e98ac847b29e0",
+                "fullname": "Мария",
+                "avatar": null,
+                "isOnline": false
+            },
+            "text": "Салам по полаи .А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 16 2024 17:40:26 GMT+1000",
+            "unreaded": 1,
+            "isReaded": true
+        },
+        {
+            "_id": "15fbbe676d64fd9d063955544fee919e",
+            "user": {
+                "_id": "15fbbe676d64fd9d063955544fee919e",
+                "fullname": "Ксюша",
+                "avatar": null,
+                "isOnline": false
+            },
+            "text": "Салам по полаи .А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 16 2024 17:40:26 GMT+1000",
+            "unreaded": 1,
+            "isReaded": true
+        },
+        {
+            "_id": "07c4ef85320f3a87cd4498becb9a3c19",
+            "user": {
+                "_id": "07c4ef85320f3a87cd4498becb9a3c19",
+                "fullname": "Галина",
+                "avatar": null,
+                "isOnline": false
+            },
+            "text": "Салам по полаи .А и кстати на счет презентации: сделал?",
+            "created_at": "Fri Feb 16 2024 17:40:26 GMT+1000",
+            "unreaded": 1,
+            "isReaded": true
+        }
+    ],
+    "messages": [
+        {
+            "_id": "365d46515f2530f15b982ec9a",
+            "text": "Est mollit amet nulla incididunt officia cupidatat mollit ad velit velit officia ex officia.",
+            "created_at": "1980-04-09T09:37:54.564Z",
+            "user": {
+                "_id": "165d46515af1206a0247f4b15",
+                "fullname": "Allen Vincent",
+                "avatar": "https://sun5-7.userapi.com/s/v1/if2/liqQM7RPMQ6ekwiheDA7E5FVhSS8KIO3-7DcgbPGIF_BPg-FGcEuZ0Vl2DRyf_ceGRHLBCFK76KVenJPYRB-Hh2n.jpg?quality=95&crop=338,0,643,643&as=50x50,100x100,200x200,400x400&ava=1&u=3ETenzU-9qgER76tYomdfbMFZdPi56oB0XArvFlkzho&cs=200x200"
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "265d465152dbdc789cac11df4",
+            "text": "Ad eiusmod elit deserunt enim excepteur velit consequat anim velit eu excepteur.",
+            "created_at": "2000-03-03T16:50:06.203Z",
+            "user": {
+                "_id": "365d465157013daea8200b3ff",
+                "fullname": "Copeland Weiss",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "265d4651537ba11d0acea93d4",
+            "text": "Excepteur velit officia qui commodo laboris ipsum laboris occaecat labore consequat est dolor.",
+            "created_at": "2015-08-24T10:06:38.569Z",
+            "user": {
+                "_id": "465d4651560f2c0a09238f912",
+                "fullname": "Francine Stephenson",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "365d46515a8daacfd27b56b52",
+            "text": "Incididunt officia ut dolore cupidatat dolore ex.",
+            "created_at": "2020-01-25T09:33:15.078Z",
+            "user": {
+                "_id": "165d46515b0fabb043bbbeda8",
+                "fullname": "Woodard Fernandez",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "265d465153d7ed3bf4a6b29f0",
+            "text": "Do deserunt quis eu consequat consequat.",
+            "created_at": "2015-10-22T19:15:25.823Z",
+            "user": {
+                "_id": "165d465152a829901a5170d15",
+                "fullname": "Sally Kent",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "365d465152699b81bd95f1fb7",
+            "text": "Fugiat labore non pariatur laborum.",
+            "created_at": "1974-02-13T23:01:31.982Z",
+            "user": {
+                "_id": "465d46515bd60ccf12a91c509",
+                "fullname": "Angeline Neal",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "1 65d465158979f91687a3e371",
+            "text": "Esse mollit aliquip voluptate qui ipsum.",
+            "created_at": "1982-11-24T03:34:38.179Z",
+            "user": {
+                "_id": "465d4651530a0023efdeac6ba",
+                "fullname": "Petersen Thompson",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "165d46515682fe790013ce5a0",
+            "text": "Aliqua labore elit qui velit.",
+            "created_at": "1977-04-10T17:05:51.566Z",
+            "user": {
+                "_id": "365d465159176c382465aebde",
+                "fullname": "Lou Hudson",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "165d46515735e4aa6645e6e67",
+            "text": "Irure consequat aute mollit qui consectetur labore aliquip commodo Lorem dolore.",
+            "created_at": "1975-11-29T03:00:45.207Z",
+            "user": {
+                "_id": "365d465155b3782676274f7a7",
+                "fullname": "Watkins Buckley",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "265d465154babbaa3a0c5fac7",
+            "text": "Officia eu consectetur occaecat dolore.",
+            "created_at": "1981-01-28T13:52:18.108Z",
+            "user": {
+                "_id": "165d465151c27412c23017925",
+                "fullname": "Donaldson Maxwell",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "265d46515b7b659d0374b2331",
+            "text": "Eiusmod voluptate cupidatat nulla deserunt exercitation aliquip reprehenderit culpa mollit id.",
+            "created_at": "2023-06-29T13:57:48.025Z",
+            "user": {
+                "_id": "465d46515396d5169d28f9da2",
+                "fullname": "Sargent Vega",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "465d46515ddbeee97f9921f2a",
+            "text": "In voluptate anim et velit commodo Lorem quis magna qui.",
+            "created_at": "2007-08-12T21:46:51.395Z",
+            "user": {
+                "_id": "265d46515f0561578fee0d96f",
+                "fullname": "Corine Riddle",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "165d46515797585530b34e2d6",
+            "text": "Amet est officia sit eiusmod officia.",
+            "created_at": "1972-09-04T03:03:08.134Z",
+            "user": {
+                "_id": "465d465156649d2aeecbcbadc",
+                "fullname": "Phillips Harrington",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "465d46515f5df2ff7499199c9",
+            "text": "Ut excepteur consectetur excepteur cillum adipisicing.",
+            "created_at": "1971-01-17T19:14:56.327Z",
+            "user": {
+                "_id": "165d465159df75b2f6cd5b6c2",
+                "fullname": "Brandi Terry",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "165d4651592f9e0868a548394",
+            "text": "Aliquip amet eiusmod enim ex voluptate fugiat ea excepteur eu consequat sint veniam dolore.",
+            "created_at": "1972-03-14T16:26:50.483Z",
+            "user": {
+                "_id": "165d465155eec297bba47c550",
+                "fullname": "Deann Higgins",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "465d465157fb78701035fd114",
+            "text": "Elit labore anim tempor commodo consequat adipisicing et veniam est adipisicing nulla.",
+            "created_at": "2020-01-18T14:23:43.318Z",
+            "user": {
+                "_id": "365d4651580f0e28bfeb6e3a0",
+                "fullname": "Calhoun Acosta",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "265d46515d44b91bcf750a661",
+            "text": "Aliqua exercitation cupidatat incididunt cillum sit do in nulla irure pariatur minim elit tempor.",
+            "created_at": "2012-03-15T09:04:34.967Z",
+            "user": {
+                "_id": "265d465155c2649784b63c12e",
+                "fullname": "Bette Chen",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "365d465156c9dee86c2ce1043",
+            "text": "In tempor nisi nostrud incididunt reprehenderit.",
+            "created_at": "2022-06-16T02:38:06.272Z",
+            "user": {
+                "_id": "465d465150fe450e306388e62",
+                "fullname": "Susanna Gould",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        },
+        {
+            "_id": "165d46515b1fa535e065e4a05",
+            "text": "😒😒😒",
+            "created_at": "1973-09-30T19:42:47.847Z",
+            "user": {
+                "_id": "465d465153dfbfc998e456bbf",
+                "fullname": "Higgins West",
+                "avatar": null
+            },
+            "dialog": "a384b6463fc216a5f8ecb6670f86456a"
+        }
+    ]
+}

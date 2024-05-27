@@ -15,6 +15,6 @@ const io = createSocket(http);
 
 createRoutes(app, io);
 
-http.listen(process.env.PORT, () => {
-  console.log(`Server: https://localhost:${process.env.PORT}`);
+http.listen(process.env.URL, () => {
+  console.log(`Server: process.env.URL`);
 });

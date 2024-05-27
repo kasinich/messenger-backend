@@ -1,4 +1,5 @@
 import express from "express";
+import cors from "cors"
 import dotenv from "dotenv";
 import { createServer } from "http";
 
@@ -12,9 +13,12 @@ const app = express();
 const http = createServer(app);
 const io = createSocket(http);
 
+app.use(cors({
+  origin: "https://messenger-backend-ashy.vercel.app"
+}))
 
 createRoutes(app, io);
 
 http.listen(process.env.URL, () => {
-  console.log(`Server: process.env.URL`);
+  console.log(`Server: ${process.env.URL}`);
 });

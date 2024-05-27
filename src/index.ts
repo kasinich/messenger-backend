@@ -14,7 +14,7 @@ const http = createServer(app);
 const io = createSocket(http);
 
 app.use(cors({
-  origin: "https://messenger-backend-ashy.vercel.app"
+  origin: "localhost:3000"
 }))
 
 createRoutes(app, io);
